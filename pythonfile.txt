@@ -1,0 +1,6 @@
+Conrado-Qrepository to commit files and folders)
+•	git remote -v	(show links connected to local project folder)
+•	git push origin master	(update main branch code base with my code)
+•	git clone	(get code base from github to local pc to use in git)
+•	git remote add upstream	(link of the project from where I have forked project)
+•	git branch yadnyesh	{create 
